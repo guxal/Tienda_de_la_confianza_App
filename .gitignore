@@ -3,6 +3,8 @@
 /public/storage
 /storage/*.key
 /vendor
+*/.gitignore
+.htaccess
 .env
 .env.example
 .phpunit.result.cache
